@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash
-- 👀 I’m interested in c,c++,java,python,html
-- 🌱 I’m currently learning CSS,JS
-- 💞️ I’m looking to collaborate on minor c,c++ projects
+- 👀 I’m interested in c++,javascript
+- 🌱 I’m currently learning Frontend
+- 💞️ I’m looking to collaborate on minor c++,javascript,frontend projects
 - 📫 How to reach me yash70g@gmail.com
 
 <!---
